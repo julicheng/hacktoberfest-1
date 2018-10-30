@@ -40,6 +40,9 @@ Listing a few git resources here for everyone.
 - [Migrating to Git LFS](http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/) — Use Git LFS on an existing repository to manage large files in a better way
 - [Learn Git Branching](https://learngitbranching.js.org/) — Interactive way to learn how git branching works
 
+- [Learn GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html) -
+GitFlow is a branching model for Git, created by Vincent Driessen. It has attracted a lot of attention because it is very well suited to collaboration and scaling the development team.
+
 ### ⚡️ Git for WordPress:
 
 - [Beginner Tutorial: How to user Git for WordPress development](https://torquemag.io/2015/10/beginner-tutorial-use-git-wordpress-development/) by [NICK SCHÄFERHOFF](http://nickschaeferhoff.de)
